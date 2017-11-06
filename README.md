@@ -1,0 +1,1 @@
+# License-File-Generator-And-Checker
